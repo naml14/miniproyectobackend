@@ -1,6 +1,3 @@
-version: "3"
-agent:
-  authtoken: 2o2iLipSZvmOulZjvMlQMf7a7xR_zHd5oXfBsgnFVRhmJSoE
 tunnels:
   any1:
     addr: 3389
